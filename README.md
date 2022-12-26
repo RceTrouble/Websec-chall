@@ -1,5 +1,5 @@
-# XSS-chall
-An XSS challenge, your job is to execute a javascript code. If stuck, read `solution.txt`.  
+# Websec-chall
+Websec challenge, your job is to execute a javascript code. If stuck, read `solution.md`.  
 
 
 ### Setup
